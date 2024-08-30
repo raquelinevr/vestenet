@@ -11,3 +11,9 @@ CRUD do usuario com
 - Email (só valida se tiver um @)
 - Senha
 - CPF (Só valida se tiver 14 caracteres)
+
+
+Integrantes:
+
+Raqueline Gomes
+João Victor
