@@ -15,5 +15,5 @@ CRUD do usuario com
 
 Integrantes:
 
-Raqueline Gomes
-João Victor
+- Raqueline Gomes
+- João Victor
