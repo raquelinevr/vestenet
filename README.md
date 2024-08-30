@@ -1,5 +1,5 @@
 # vestenet
-Etapa 1 do projeto de Programção para Dispositivos Movéis
+Etapa 1 do projeto de Programação para Dispositivos Movéis
 
 Tela de Login
 Tela Principal 
